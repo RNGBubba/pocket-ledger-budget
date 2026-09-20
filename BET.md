@@ -38,7 +38,6 @@ A human must approve external promotion or a customer sale. This artifact does n
 
 Published as a brand-new public repository: https://github.com/RNGBubba/pocket-ledger-budget
 
-The pushed HEAD is `1803abdd127c1b09df8a0ddf62b3be344feabf7a`.
 
 ## Constraints
 
