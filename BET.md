@@ -36,7 +36,9 @@ A human must approve external promotion or a customer sale. This artifact does n
 
 ## GitHub
 
-Not published in this run. The board requested a new public repository only; no repository publication was performed here, so no URL is claimed.
+Published as a brand-new public repository: https://github.com/RNGBubba/pocket-ledger-budget
+
+The pushed HEAD is `2449ffece1b11acb35d21b3ffc10867662699a95`.
 
 ## Constraints
 
